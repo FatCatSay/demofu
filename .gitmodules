@@ -1,0 +1,6 @@
+[submodule "demozi"]
+	path = demozi
+	url = https://github.com/FatCatSay/demozi.git
+[submodule "2demozi22"]
+	path = 2demozi22
+	url = https://github.com/FatCatSay/demozi.git
